@@ -1,1 +1,1 @@
-# -Sistema-FinTech-de-Prueba-de-Estres-Bancaria
+# Sistema FinTech de Prueba de Estres Bancaria
